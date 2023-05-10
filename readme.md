@@ -1,5 +1,9 @@
 # rust-tui-playground
 
-[tui-rs Docs](https://docs.rs/tui/latest/tui/)
+Just having some fun with ratatui.
 
-[tui-rs Source](https://github.com/fdehau/tui-rs)
+## Ratatui
+
+[Ratatui Docs](https://docs.rs/ratatui/latest/ratatui/)<br>
+[Ratatui Crate](https://crates.io/crates/ratatui)<br>
+[Ratatui Source](https://github.com/tui-rs-revival/ratatui)
